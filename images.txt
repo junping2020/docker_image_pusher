@@ -10,3 +10,4 @@ ghcr.io/wg-easy/wg-easy
 chishin/wol-go-web
 snowdreamtech/frpc
 snowdreamtech/frps
+cloudflare/cloudflared
