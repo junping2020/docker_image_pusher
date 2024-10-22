@@ -8,3 +8,4 @@ jc21/mariadb-aria:latest
 louislam/uptime-kuma:latest
 ghcr.io/wg-easy/wg-easy
 chishin/wol-go-web
+snowdreamtech/frpc:0.61.0
