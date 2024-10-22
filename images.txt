@@ -1,6 +1,10 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+authelia/authelia:latest
+finab/bark-server
+jeessy/ddns-go:latest
+lobehub/lobe-chat:latest
+gdy666/lucky
+chishin/nginx-proxy-manager-zh
+jc21/mariadb-aria:latest
+louislam/uptime-kuma:latest
+ghcr.io/wg-easy/wg-easy
+chishin/wol-go-web
