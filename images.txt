@@ -11,3 +11,5 @@ chishin/wol-go-web
 snowdreamtech/frpc
 snowdreamtech/frps
 cloudflare/cloudflared
+6053537/portainer-ce:latest
+registry.gitlab.com/shinobi-systems/shinobi:latest
