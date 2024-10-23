@@ -13,3 +13,4 @@ snowdreamtech/frps
 cloudflare/cloudflared
 6053537/portainer-ce:latest
 registry.gitlab.com/shinobi-systems/shinobi:latest
+ghcr.io/wg-easy/wg-easy:latest
