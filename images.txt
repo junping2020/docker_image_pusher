@@ -15,4 +15,3 @@ cloudflare/cloudflared
 registry.gitlab.com/shinobi-systems/shinobi:latest
 ghcr.io/wg-easy/wg-easy:latest
 linzeyi/hivision_idphotos
-lwch/natpass-builder:1.20.11
