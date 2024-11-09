@@ -15,5 +15,3 @@ cloudflare/cloudflared
 registry.gitlab.com/shinobi-systems/shinobi:latest
 ghcr.io/wg-easy/wg-easy:latest
 linzeyi/hivision_idphotos
-ffdfgdfg/npc
-ffdfgdfg/nps
