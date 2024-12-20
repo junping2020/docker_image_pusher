@@ -18,5 +18,4 @@ linzeyi/hivision_idphotos
 yisier1/nps
 yisier1/npc
 usual2970/certimate
-ghcr.io/swivid/f5-tts:main
 ghcr.io/limmer55/streamdock:latest
