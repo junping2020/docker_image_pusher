@@ -20,3 +20,4 @@ yisier1/npc
 usual2970/certimate
 ghcr.io/seriousm4x/upsnap:4
 ghcr.io/open-webui/open-webui:main
+ghcr.io/blakeblackshear/frigate:stable
