@@ -21,3 +21,4 @@ usual2970/certimate
 ghcr.io/seriousm4x/upsnap:4
 ghcr.io/open-webui/open-webui:main
 ghcr.io/blakeblackshear/frigate:stable
+homeassistant/home-assistant:2025.4.3
