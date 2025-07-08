@@ -15,8 +15,6 @@ cloudflare/cloudflared
 registry.gitlab.com/shinobi-systems/shinobi:latest
 ghcr.io/wg-easy/wg-easy:latest
 linzeyi/hivision_idphotos
-yisier1/nps
-yisier1/npc
 ghcr.io/seriousm4x/upsnap:4
 ghcr.io/open-webui/open-webui:main
 ghcr.io/blakeblackshear/frigate:stable
