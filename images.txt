@@ -24,3 +24,4 @@ roflcoopter/viseron:latest
 frooodle/s-pdf:1.0.0
 homeassistant/home-assistant:2025.7.1
 youshandefeiyang/allinone
+onlyoffice/documentserver
