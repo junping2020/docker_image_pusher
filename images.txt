@@ -1,4 +1,4 @@
-openclaw/openclaw:latest
+ghcr.io/openclaw/openclaw:latest
 neosun/deepseek-ocr:latest
 pch18/baota
 docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
