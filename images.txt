@@ -1,4 +1,4 @@
-docusealco/docuseal:latest
+ghcr.io/docusealco/docuseal:latest
 ghcr.io/openclaw/openclaw:latest
 neosun/deepseek-ocr:latest
 pch18/baota
