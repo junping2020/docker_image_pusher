@@ -1,2 +1,3 @@
 collabora/code:latest
 richarvey/nginx-php-fpm:latest
+webdevops/php-nginx:7.4
