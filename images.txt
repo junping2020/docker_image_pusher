@@ -1,1 +1,2 @@
 collabora/code:latest
+richarvey/nginx-php-fpm:latest
